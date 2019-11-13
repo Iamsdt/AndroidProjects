@@ -15,10 +15,3 @@ Language: Kotlin
 An Android theme library for choose theme at runtime. This library can provide easy theme change and also switch day and night mode. [Project Link]( https://github.com/Iamsdt/ThemeLibrary )
 
 # Android Projects
-
-## Soil Science Dictionary
-
- A complete dictionary app contains soil science related terminologies 
-
-**[Project Link](https://github.com/Iamsdt/SoilScienceDictionary)**
-
