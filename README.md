@@ -39,6 +39,11 @@ Server Code: [Server Code](https://github.com/Iamsdt/StickerGenerator/tree/maste
 
 Notebook: [Anim Gan Pytorch](https://www.kaggle.com/iamsdt/anim-generator-gan-pytorch)
 
+## Music Player
+A complete music player with playlist options. In this project the UI of old universal music player is used, but the layout created with new component of android like constrain layout, card view. For this project, exoplayer is for music play. This app support latest android 10.
+
+Source code: [Project Link](https://github.com/Iamsdt/MusicPlayer)
+
 ## Real Time navigation
 
 A real time navigation app includes app location picker using mapbox.
